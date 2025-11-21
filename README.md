@@ -1,5 +1,3 @@
-# ModbusTCP library V1.0.0
-
 # Modbus TCP library for Arduino family v1.0.0 
 Author: Abraxas666
 
