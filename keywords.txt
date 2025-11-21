@@ -1,0 +1,15 @@
+
+
+modbus				KEYWORD1
+
+DigitalRead			KEYWORD2
+AnalogRead			KEYWORD2
+DigitalWrite		KEYWORD2
+AnalogWrite			KEYWORD2
+MultiCoilsWrite		KEYWORD2
+MultiRegsWrite		KEYWORD2
+MaskWriteRegister	KEYWORD2
+ReadWriteMultiReg	KEYWORD2
+
+
+PrintData 			KEYWORD4

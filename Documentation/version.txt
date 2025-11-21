@@ -1,0 +1,7 @@
+Version:
+	1.0	21 Jun 2018  -  initial release
+
+Author:	
+	Abraxas666
+
+For the modbus TCP protocol specifications refer to https://www.simplymodbus.ca/TCP.htm
